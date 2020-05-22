@@ -1,4 +1,4 @@
-test3
-====
+test app
+========
 
-rep for oracle forms project
+Repository za testiranje deploy-a app na AWS.
